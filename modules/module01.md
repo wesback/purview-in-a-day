@@ -64,15 +64,19 @@ When planning your Microsoft Purview deployment, you first need to provision a M
     >
     > For more information, check out the [Microsoft Purview Pricing](https://azure.microsoft.com/pricing/details/purview/) page.
 
-4. On the **Networking** tab, select **All networks**, and click **Review + Create**.
+4. On the **Networking** tab, select **All networks**, and click **Next**.
 
     ![Networking](../images/module01/01.04-create-networking.png)
 
-5. On the **Review + Create** tab, once the message in the ribbon returns "Validation passed", verify your selections and click **Create**.
+5. On the **Configuration** tab, select **All networks**, and click **Review + Create**.
+
+    ![Networking](../images/module01/01.04a-create-configuration.png)
+
+6. On the **Review + Create** tab, once the message in the ribbon returns "Validation passed", verify your selections and click **Create**.
 
     ![Create Purview Account](../images/module01/01.05-create-create.png)
 
-6. Wait several minutes while your deployment is in progress. Once complete, click **Go to resource**.
+7. Wait several minutes while your deployment is in progress. Once complete, click **Go to resource**.
 
     ![Go to resource](../images/module01/01.06-goto-resource.png)
 
